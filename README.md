@@ -1,4 +1,6 @@
 # LoginPageAngular
+![image](https://github.com/MarcuusCorrea/Landing_Page/assets/96303668/d391e7ff-e9fa-4cdc-9f3c-86cd06178fe9)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
 
